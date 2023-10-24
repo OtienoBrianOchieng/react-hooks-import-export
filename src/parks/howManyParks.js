@@ -1,5 +1,7 @@
 function howManyParks() {
-  console.log("42 parks!");
-}
+  const towns = 54
+  const averageParks = 12
+  return(towns*averageParks)
+  }
 
 export default howManyParks;
